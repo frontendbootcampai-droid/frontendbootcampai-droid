@@ -1,61 +1,70 @@
-<div align="center">
+<h1 align="center">Hey 👋What's Up?</h1>
 
-# 🌟 Welcome to 's Profile 🌟
-
-<p><em>Building the future through code</em></p>
-
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
-</div>
-
-<hr>
-
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🐦 Latest Tweet
-
-<!-- ⚠️ Important: Replace 'YOUR_TWITTER_USERNAME' with your actual Twitter username in the URL below -->
-<div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_USERNAME" /></a>
-</div>
-
-## 💻 Tech Stack
+###
 
 <div align="center">
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1">
-
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
+
+###
 
 <div align="center">
-
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
-
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-Copy
 
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=frontendbootcampai-droid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=frontendbootcampai-droid&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frontendbootcampai-droid/frontendbootcampai-droid/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frontendbootcampai-droid/frontendbootcampai-droid/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frontendbootcampai-droid/frontendbootcampai-droid/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=frontendbootcampai-droid.frontendbootcampai-droid&"  />
+</div>
+
+###
